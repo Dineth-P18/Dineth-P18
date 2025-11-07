@@ -4,11 +4,10 @@
 
 <!-- Banner Section -->
 <p align="center">
-  <img src="" alt="Dineth Perera Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Dineth%20Perera&fontSize=90&fontAlignY=35&desc=Engineering%20Student%20|%20AI%20%26%20Robotics%20Innovator%20|%20Full-Stack%20Developer&descAlignY=55&descSize=20&animation=twinkling" alt="Dineth Perera Banner" width="100%">
 </p>
 
-<h1 align="center">👋 Hi, I'm Dineth Perera</h1>
-<h3 align="center">Engineering Student | AI & Robotics Innovator | Full-Stack Developer</h3>
+<h3 align="center">🚀 Building Intelligent Systems at the Intersection of Hardware & Software</h3>
 
 <p align="center">
   <a href="mailto:e21291@eng.pdn.ac.lk"><img src="https://img.shields.io/badge/Email-e21291@eng.pdn.ac.lk-red?style=flat-square&logo=gmail"></a>
@@ -20,7 +19,7 @@
 
 ## 🌟 About Me
 
-I’m **Dineth Perera**, a passionate **Engineering undergraduate** at the University of Peradeniya, Sri Lanka 🇱🇰.  
+I'm **Dineth Perera**, a passionate **Engineering undergraduate** at the University of Peradeniya, Sri Lanka 🇱🇰.  
 My journey blends **electronics, AI, robotics, and web engineering** — building intelligent systems that merge hardware with modern software intelligence.
 
 I love crafting **AI-powered solutions**, developing **embedded systems**, and designing **modern web platforms** that push the boundaries of creativity and automation.
@@ -140,4 +139,5 @@ Includes calibration routines for angle measurement and performance tuning.
 
 ---
 
-### ✨ “Engineering is the art of turning imagination into innovation.”  
+### ✨ "Engineering is the art of turning imagination into innovation."  
+
